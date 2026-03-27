@@ -16,8 +16,7 @@ I love discussing about tech, finance, or anything that can uplift communities.
 
 - 🔭 I’m currently working on ALML,health care projects
 - 🌱 I’m currently learning ML
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me/linkdin: https://www.linkedin.com/in/shrutika-hinge
 - 😄 Pronouns: shrutika
 
 🌱 What I'm Passionate About
