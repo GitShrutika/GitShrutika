@@ -1,4 +1,5 @@
  Hi there, I'm Shrutika👋
+
 💫 About Me:AIML,web developer
 I love discussing about tech, finance, or anything that can uplift communities.
 
