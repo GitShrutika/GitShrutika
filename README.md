@@ -12,9 +12,7 @@ I love discussing about tech, finance, or anything that can uplift communities.
 📊 GitHub Stats:
 
 
-**GitShrutika/GitShrutika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**GitShrutika/GitShrutika** 
 
 - 🔭 I’m currently working on ALML,health care projects
 - 🌱 I’m currently learning ML
