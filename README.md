@@ -1,7 +1,8 @@
  Hi there, I'm Shrutika👋
 💫 About Me:
-I love discussing about tech, finance, or anything that can uplift communities.
+
 AIML,web developer
+I love discussing about tech, finance, or anything that can uplift communities.
 💻 Tech Stack:
 C++ CSS3 Python HTML5 Java JavaScript Oracle Google Cloud AWS Angular Angular.js Django Express.js Next JS NodeJS SQLite MongoDB MySQL Adobe NumPy Pandas scikit-learn
 
